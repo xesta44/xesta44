@@ -1,4 +1,4 @@
-# Hey, I'm Xest 👋
+# Hey, I'm Xest.
 
 **AI Developer & Automation Specialist** building custom AI agents, Discord bots, and workflow automations.
 
